@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jZOu+HhlPR3Rf+gaKcyHxc4CUGYdqunXI2Fl7JguJ57T52iJNMgJ6OY+NuzHVgJXQIByjZpl24tO/dIYmGiTuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Model.API\\Model.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\mongodb.bson\\2.19.2\\mongodb.bson.2.19.2.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
