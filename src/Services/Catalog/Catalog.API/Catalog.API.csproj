@@ -12,10 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\..\..\Catalog.Core\Catalog.Core.csproj" />
     <ProjectReference Include="..\..\..\Model.API\Catalog.Model.csproj" />
   </ItemGroup>
 
