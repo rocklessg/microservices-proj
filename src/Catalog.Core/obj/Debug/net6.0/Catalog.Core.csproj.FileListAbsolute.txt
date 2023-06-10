@@ -13,3 +13,5 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\refint\Catalog.Core.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\ref\Catalog.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\bin\Debug\net6.0\Catalog.Data.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\bin\Debug\net6.0\Catalog.Data.pdb
