@@ -97,9 +97,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Model.API\\Model.API.csproj",
-      "projectName": "Model.API",
-      "projectPath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Model.API\\Model.API.csproj",
+      "projectUniqueName": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Model.API\\Catalog.Model.csproj",
+      "projectName": "Catalog.Model",
+      "projectPath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Model.API\\Catalog.Model.csproj",
       "packagesPath": "C:\\Users\\adanmaigoro\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Model.API\\obj\\",
       "projectStyle": "PackageReference",

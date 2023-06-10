@@ -369,6 +369,19 @@
         "runtime": {
           "lib/net6.0/ZstdSharp.dll": {}
         }
+      },
+      "Catalog.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MongoDB.Bson": "2.19.2"
+        },
+        "compile": {
+          "bin/placeholder/Catalog.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.Model.dll": {}
+        }
       }
     }
   },
@@ -955,10 +968,16 @@
         "zstdsharp.port.0.6.2.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "Catalog.Model/1.0.0": {
+      "type": "project",
+      "path": "../../../Model.API/Catalog.Model.csproj",
+      "msbuildProject": "../../../Model.API/Catalog.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Catalog.Model >= 1.0.0",
       "MongoDB.Driver >= 2.19.2",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -990,7 +1009,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Model.API\\Catalog.Model.csproj": {
+              "projectPath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Model.API\\Catalog.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
