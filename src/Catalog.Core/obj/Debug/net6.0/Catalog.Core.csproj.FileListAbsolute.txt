@@ -1,0 +1,15 @@
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\bin\Debug\net6.0\Catalog.Core.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\bin\Debug\net6.0\Catalog.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\bin\Debug\net6.0\Catalog.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\bin\Debug\net6.0\Catalog.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\bin\Debug\net6.0\Catalog.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.AssemblyReference.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfoInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfo.cs
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.CopyComplete
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\refint\Catalog.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\Catalog.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Catalog.Core\obj\Debug\net6.0\ref\Catalog.Core.dll
