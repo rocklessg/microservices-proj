@@ -15,4 +15,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Model.API\Catalog.Model.csproj" />
+  </ItemGroup>
+
 </Project>
