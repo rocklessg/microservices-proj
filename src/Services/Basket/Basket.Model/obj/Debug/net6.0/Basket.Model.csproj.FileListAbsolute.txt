@@ -1,0 +1,12 @@
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\bin\Debug\net6.0\Basket.Model.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\bin\Debug\net6.0\Basket.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\bin\Debug\net6.0\Basket.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\Basket.Model.csproj.AssemblyReference.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\Basket.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\Basket.Model.AssemblyInfoInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\Basket.Model.AssemblyInfo.cs
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\Basket.Model.csproj.CoreCompileInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\Basket.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\refint\Basket.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\Basket.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Basket.Model\obj\Debug\net6.0\ref\Basket.Model.dll
