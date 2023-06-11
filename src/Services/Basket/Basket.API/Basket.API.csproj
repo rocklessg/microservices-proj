@@ -12,7 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\..\..\Basket.Core\Basket.Core.csproj" />
+    <ProjectReference Include="..\..\..\Basket.Model\Basket.Model.csproj" />
   </ItemGroup>
 
 </Project>

@@ -166,6 +166,19 @@
           }
         }
       },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Pipelines.Sockets.Unofficial/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -462,6 +475,31 @@
             "rid": "win"
           }
         }
+      },
+      "Basket.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Basket.Model": "1.0.0",
+          "Microsoft.Extensions.Caching.Abstractions": "6.0.0",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/Basket.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Basket.Core.dll": {}
+        }
+      },
+      "Basket.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Basket.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Basket.Model.dll": {}
+        }
       }
     }
   },
@@ -707,6 +745,36 @@
         "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.xml",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Pipelines.Sockets.Unofficial/2.2.0": {
@@ -1190,10 +1258,22 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Basket.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../Basket.Core/Basket.Core.csproj",
+      "msbuildProject": "../../../Basket.Core/Basket.Core.csproj"
+    },
+    "Basket.Model/1.0.0": {
+      "type": "project",
+      "path": "../../../Basket.Model/Basket.Model.csproj",
+      "msbuildProject": "../../../Basket.Model/Basket.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Basket.Core >= 1.0.0",
+      "Basket.Model >= 1.0.0",
       "Microsoft.Extensions.Caching.StackExchangeRedis >= 6.0.16",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -1225,7 +1305,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Basket.Core\\Basket.Core.csproj": {
+              "projectPath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Basket.Core\\Basket.Core.csproj"
+            },
+            "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Basket.Model\\Basket.Model.csproj": {
+              "projectPath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Basket.Model\\Basket.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
