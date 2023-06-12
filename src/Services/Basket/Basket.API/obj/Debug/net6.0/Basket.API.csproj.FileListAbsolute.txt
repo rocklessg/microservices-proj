@@ -51,3 +51,10 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Basket.Model.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Basket.Core.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Basket.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.Net.Common.dll
