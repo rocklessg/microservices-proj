@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "17+4H4bpjB76ngWho13r7nclee0JitGGxLgzlyN8SK8j+kZ3WO5zFLJqQXQX1ATkqIJx9MQpjMfs74uyCagN2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Services\\Discount\\Discount.Grpc.Core\\Discount.Grpc.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.3\\microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\npgsql\\6.0.9\\npgsql.6.0.9.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
