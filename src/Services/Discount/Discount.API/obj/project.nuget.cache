@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mdvd9dMwg/K2GcCHohpPq1ZJKwEYuuG+IadA10GT18uB5uSno42UbDRhq1TE6KuBfv+IhggKaxeGL7ur3JCQxA==",
+  "dgSpecHash": "Ce/yzJ8TK3PVxsFcz2ZD2G9/Mrpm9LdDUQu/f1YCBCEPy7OW5U2C/3oD/x4T1p5R1tI70Nos0PmUQLwXF6vSvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Services\\Discount\\Discount.API\\Discount.API.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\npgsql\\6.0.9\\npgsql.6.0.9.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\polly\\6.1.2\\polly.6.1.2.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

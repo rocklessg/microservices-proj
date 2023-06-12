@@ -38,3 +38,4 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Disc
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Discount.Model.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Discount.Core.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Discount.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Polly.dll

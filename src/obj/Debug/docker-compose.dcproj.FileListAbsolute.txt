@@ -43,3 +43,15 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\System.Diagn
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.API.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.Core.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.API.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.API.runtimeconfig.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.API.exe
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.API.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Polly.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Npgsql.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Dapper.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.API.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Model.pdb
