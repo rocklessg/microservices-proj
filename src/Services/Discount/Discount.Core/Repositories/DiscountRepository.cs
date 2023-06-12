@@ -3,11 +3,6 @@ using Discount.Core.Repositories.Abstractions;
 using Discount.Model.Entities;
 using Microsoft.Extensions.Configuration;
 using Npgsql;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Discount.Core.Repositories
 {
@@ -22,7 +17,7 @@ namespace Discount.Core.Repositories
 
         public async Task<Coupon> GetDiscount(string productName)
         {
-            using var connection = new NpgsqlConnection(_configuration.GetSection("DatabaseSettings:DatabaseName").Value);
+            using var connection = new NpgsqlConnection(_configuration.GetSection("DatabaseSettings:ConnectionString").Value);
 
             var coupon = await connection.QueryFirstOrDefaultAsync<Coupon>
                 ("SELECT * FROM Coupon WHERE ProductName = @ProductName", new { ProductName = productName });
@@ -34,7 +29,7 @@ namespace Discount.Core.Repositories
 
         public async Task<bool> CreateDiscount(Coupon coupon)
         {
-            using var connection = new NpgsqlConnection(_configuration.GetSection("DatabaseSettings:DatabaseName").Value);
+            using var connection = new NpgsqlConnection(_configuration.GetSection("DatabaseSettings:ConnectionString").Value);
 
             var affected =
                 await connection.ExecuteAsync
@@ -49,7 +44,7 @@ namespace Discount.Core.Repositories
 
         public async Task<bool> UpdateDiscount(Coupon coupon)
         {
-            using var connection = new NpgsqlConnection(_configuration.GetSection("DatabaseSettings:DatabaseName").Value);
+            using var connection = new NpgsqlConnection(_configuration.GetSection("DatabaseSettings:ConnectionString").Value);
 
             var affected = await connection.ExecuteAsync
                     ("UPDATE Coupon SET ProductName=@ProductName, Description = @Description, Amount = @Amount WHERE Id = @Id",
