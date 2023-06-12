@@ -1,0 +1,12 @@
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\bin\Debug\net6.0\Discount.Model.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\bin\Debug\net6.0\Discount.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\bin\Debug\net6.0\Discount.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.csproj.AssemblyReference.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.AssemblyInfoInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.AssemblyInfo.cs
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.csproj.CoreCompileInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\refint\Discount.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\ref\Discount.Model.dll
