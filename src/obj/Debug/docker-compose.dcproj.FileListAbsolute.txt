@@ -29,3 +29,17 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Catalog.Data
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.API.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.API.runtimeconfig.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.API.exe
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.API.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\StackExchange.Redis.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.API.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Basket.Model.pdb
