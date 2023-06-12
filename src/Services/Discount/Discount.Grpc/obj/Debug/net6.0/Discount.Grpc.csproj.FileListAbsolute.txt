@@ -38,3 +38,5 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Disc
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Discount.Grpc.Model.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Discount.Grpc.Core.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Discount.Grpc.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
