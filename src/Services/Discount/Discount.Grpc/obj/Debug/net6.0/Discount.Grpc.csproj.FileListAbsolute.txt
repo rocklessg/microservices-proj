@@ -32,3 +32,9 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Disc
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\obj\Debug\net6.0\Discount.Grpc.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\obj\Debug\net6.0\Discount.Grpc.genruntimeconfig.cache
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\obj\Debug\net6.0\ref\Discount.Grpc.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Dapper.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Npgsql.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Discount.Grpc.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Discount.Grpc.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Discount.Grpc.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net6.0\Discount.Grpc.Model.pdb

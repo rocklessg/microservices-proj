@@ -1,0 +1,15 @@
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\bin\Debug\net6.0\Discount.Grpc.Core.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\bin\Debug\net6.0\Discount.Grpc.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\bin\Debug\net6.0\Discount.Grpc.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\bin\Debug\net6.0\Discount.Grpc.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\bin\Debug\net6.0\Discount.Grpc.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\Discount.Grpc.Core.csproj.AssemblyReference.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\Discount.Grpc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\Discount.Grpc.Core.AssemblyInfoInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\Discount.Grpc.Core.AssemblyInfo.cs
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\Discount.Grpc.Core.csproj.CoreCompileInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\Discount.Grpc.Core.csproj.CopyComplete
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\Discount.Grpc.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\refint\Discount.Grpc.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\Discount.Grpc.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Grpc.Core\obj\Debug\net6.0\ref\Discount.Grpc.Core.dll

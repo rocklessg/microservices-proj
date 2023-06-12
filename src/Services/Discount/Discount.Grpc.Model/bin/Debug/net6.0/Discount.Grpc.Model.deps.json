@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Discount.Grpc.Model/1.0.0": {
+        "runtime": {
+          "Discount.Grpc.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Discount.Grpc.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
