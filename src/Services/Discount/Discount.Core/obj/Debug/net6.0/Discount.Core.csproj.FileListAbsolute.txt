@@ -1,0 +1,15 @@
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\bin\Debug\net6.0\Discount.Core.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\bin\Debug\net6.0\Discount.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\bin\Debug\net6.0\Discount.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\bin\Debug\net6.0\Discount.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\bin\Debug\net6.0\Discount.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\Discount.Core.csproj.AssemblyReference.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\Discount.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\Discount.Core.AssemblyInfoInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\Discount.Core.AssemblyInfo.cs
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\Discount.Core.csproj.CoreCompileInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\Discount.Core.csproj.CopyComplete
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\Discount.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\refint\Discount.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\Discount.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.Core\obj\Debug\net6.0\ref\Discount.Core.dll

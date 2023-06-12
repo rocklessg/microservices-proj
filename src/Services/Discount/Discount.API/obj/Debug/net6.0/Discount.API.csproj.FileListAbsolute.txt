@@ -30,3 +30,5 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Disc
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.genruntimeconfig.cache
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\ref\Discount.API.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Npgsql.dll
