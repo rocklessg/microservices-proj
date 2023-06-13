@@ -55,3 +55,8 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Dapper.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.API.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Core.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Model.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Grpc.Net.ClientFactory.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Google.Protobuf.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Grpc.Core.Api.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Grpc.Net.Client.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Grpc.Net.Common.dll
