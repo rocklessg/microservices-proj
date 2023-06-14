@@ -60,3 +60,15 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Google.Proto
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Grpc.Core.Api.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Grpc.Net.Client.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Grpc.Net.Common.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.runtimeconfig.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.exe
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.Core.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\AutoMapper.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.Model.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Grpc.AspNetCore.Server.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.Core.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Discount.Grpc.Model.pdb
