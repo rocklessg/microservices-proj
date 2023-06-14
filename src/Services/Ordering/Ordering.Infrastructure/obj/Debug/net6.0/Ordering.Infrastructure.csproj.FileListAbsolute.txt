@@ -1,0 +1,12 @@
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.deps.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\refint\Ordering.Infrastructure.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\ref\Ordering.Infrastructure.dll
