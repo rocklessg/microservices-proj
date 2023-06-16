@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "e7x0R3PTG4sZXc+kb/yaFqFnynuSa58LR9iaXRhdclmp6hr8gZupXCVFyXPQA3dHhXujEhAgFfl5tpAJJibKSw==",
+  "dgSpecHash": "BgzOCep4sZne+KWlUHbOOPRwa/HgWDpqcyIxY6yfEysmBLynal24kvq/QuRSH1bh/djHqUzY/Wddo8O+fP5IQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
