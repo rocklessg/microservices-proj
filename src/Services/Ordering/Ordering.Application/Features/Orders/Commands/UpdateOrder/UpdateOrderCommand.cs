@@ -1,6 +1,6 @@
 ﻿using MediatR;
 
-namespace Ordering.Application.Features.Orders.UpdateOrder
+namespace Ordering.Application.Features.Orders.Commands.UpdateOrder
 {
     public class UpdateOrderCommand : IRequest
     {
