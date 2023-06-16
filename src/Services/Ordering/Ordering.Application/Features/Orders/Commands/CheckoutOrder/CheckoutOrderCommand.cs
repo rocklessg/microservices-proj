@@ -1,8 +1,9 @@
-﻿namespace Ordering.Application.Features.Orders.Queries.GetOrderList
+﻿using MediatR;
+
+namespace Ordering.Application.Features.Orders.Commands.CheckoutOrder
 {
-    public class OrderVm
+    public class CheckoutOrderCommand : IRequest<int>
     {
-        public int Id { get; set; }
         public string UserName { get; set; }
         public decimal TotalPrice { get; set; }
 
