@@ -243,6 +243,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj": {
+                "projectPath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj"
+              },
               "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj": {
                 "projectPath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj"
               }
@@ -262,6 +265,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.18, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
             }
           },
           "imports": [
