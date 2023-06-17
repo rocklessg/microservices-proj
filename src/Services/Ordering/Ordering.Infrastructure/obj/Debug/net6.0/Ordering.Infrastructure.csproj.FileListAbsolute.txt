@@ -10,3 +10,8 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Orde
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\refint\Ordering.Infrastructure.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\ref\Ordering.Infrastructure.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CopyComplete
