@@ -58,3 +58,16 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\obj\Debug\net6.0\Basket.API.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\obj\Debug\net6.0\Basket.API.genruntimeconfig.cache
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\obj\Debug\net6.0\ref\Basket.API.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\EventBus.Message.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\EventBus.Message.pdb
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\System.Threading.Channels.dll
