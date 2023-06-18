@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "u8GTuSRWCQN/FUG6apHOTuJwxp2roN5QZL64xP5lVo0aaKG4M7FcOzFoFZ5bQFcXPJlOLVyVbWyASAT6lC/orw==",
+  "dgSpecHash": "bicyR+uQr550ZgXR3iHRQWbLTbahJv0GHdrK0OKcTb6ml/0Dg7p2V0+STOD6UwurnnS6jzXE3kuW/yus1Zgxcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\grpc.aspnetcore\\2.49.0\\grpc.aspnetcore.2.49.0.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\grpc.aspnetcore.server\\2.49.0\\grpc.aspnetcore.server.2.49.0.nupkg.sha512",
@@ -18,6 +20,7 @@
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\masstransit.aspnetcore\\7.3.1\\masstransit.aspnetcore.7.3.1.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\masstransit.extensions.dependencyinjection\\7.3.1\\masstransit.extensions.dependencyinjection.7.3.1.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\masstransit.rabbitmq\\8.0.16\\masstransit.rabbitmq.8.0.16.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\6.0.16\\microsoft.extensions.caching.stackexchangeredis.6.0.16.nupkg.sha512",
