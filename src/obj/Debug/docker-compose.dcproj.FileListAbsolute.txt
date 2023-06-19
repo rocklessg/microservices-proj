@@ -108,3 +108,5 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Microsoft.Ex
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\System.Threading.Channels.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\RabbitMQ.Client.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\EventBus.Message.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\bin\Debug\EventBus.Message.pdb
