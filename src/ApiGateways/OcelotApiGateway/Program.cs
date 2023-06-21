@@ -9,7 +9,6 @@ builder.Services.AddOcelot();
 // Add configuration
 builder.Configuration.AddJsonFile($"ocelot.{builder.Environment.EnvironmentName}.json", true, true);
 
-
 var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");
