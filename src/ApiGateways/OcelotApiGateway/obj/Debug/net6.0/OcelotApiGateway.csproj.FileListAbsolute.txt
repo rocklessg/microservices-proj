@@ -34,3 +34,9 @@ C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiG
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\obj\Debug\net6.0\OcelotApiGateway.pdb
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\obj\Debug\net6.0\OcelotApiGateway.genruntimeconfig.cache
 C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\obj\Debug\net6.0\ref\OcelotApiGateway.dll
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\bin\Debug\net6.0\ocelot.Developement.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\bin\Debug\net6.0\ocelot.Local.Developement.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\bin\Debug\net6.0\ocelot.Local.json
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\obj\Debug\net6.0\OcelotApiGateway.Properties.Resources.resources
+C:\Users\adanmaigoro\source\repos\AspnetMicroservices\src\ApiGateways\OcelotApiGateway\obj\Debug\net6.0\OcelotApiGateway.csproj.GenerateResource.cache
