@@ -1,7 +1,6 @@
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
 using Ocelot.Cache.CacheManager;
-using Ocelot.Values;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,5 +14,5 @@ var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");
 
-await app.UseOcelot();
+//await app.UseOcelot();
 app.Run();
