@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus.Message", "Buildin
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateways", "ApiGateways", "{62F8A09C-D8D6-4AE7-9C81-8871040A175E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotApiGateway", "ApiGateways\OcelotApiGateway\OcelotApiGateway.csproj", "{FBED1225-7626-4AF1-B9E8-521FE91F2BC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OcelotApiGateway", "ApiGateways\OcelotApiGateway\OcelotApiGateway.csproj", "{FBED1225-7626-4AF1-B9E8-521FE91F2BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Aggregator", "ApiGateways\Shopping.Aggregator\Shopping.Aggregator.csproj", "{345CEB6D-EDCD-4106-8B0E-E725807CBF82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +145,10 @@ Global
 		{FBED1225-7626-4AF1-B9E8-521FE91F2BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBED1225-7626-4AF1-B9E8-521FE91F2BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBED1225-7626-4AF1-B9E8-521FE91F2BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345CEB6D-EDCD-4106-8B0E-E725807CBF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345CEB6D-EDCD-4106-8B0E-E725807CBF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345CEB6D-EDCD-4106-8B0E-E725807CBF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345CEB6D-EDCD-4106-8B0E-E725807CBF82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,6 +177,7 @@ Global
 		{6036AB3F-C978-4358-9027-3C1F32FF02CB} = {5B9C3007-92F7-4098-8237-BD4386CC0626}
 		{268425EE-F8DE-45CE-8195-938A4ECFA524} = {58E8D229-870F-4094-900B-1B538D13E8AB}
 		{FBED1225-7626-4AF1-B9E8-521FE91F2BC3} = {62F8A09C-D8D6-4AE7-9C81-8871040A175E}
+		{345CEB6D-EDCD-4106-8B0E-E725807CBF82} = {62F8A09C-D8D6-4AE7-9C81-8871040A175E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {547FCF01-B625-4403-9467-7477FB833924}
