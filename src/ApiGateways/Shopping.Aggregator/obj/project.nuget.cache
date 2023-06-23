@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "L0GyPCyO+xrO8YEftplythTXJL1Hj6C1Hh4WLJ7QubEKaczJXmUzNdSbW5547lwZEkzt6eY87JESADH4aL4Q7g==",
+  "dgSpecHash": "q4rlWM9Yn2bYKxw41jG0YS5HAoHbaLAaWO1EdfHfr7TRhwDUZ/Xpzdmvl/s/vdMsUYwjrlj2IbVwDrAGSOp7nQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\adanmaigoro\\source\\repos\\AspnetMicroservices\\src\\ApiGateways\\Shopping.Aggregator\\Shopping.Aggregator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\adanmaigoro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\adanmaigoro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
