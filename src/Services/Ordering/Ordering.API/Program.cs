@@ -1,9 +1,12 @@
 using EventBus.Message.Common;
 using MassTransit;
+using MediatR;
 using Microsoft.AspNetCore.Hosting;
 using Ordering.API.EventBusConsumer;
 using Ordering.API.Extensions;
 using Ordering.API.Mapping;
+using Ordering.Application.Features.Orders.Queries.GetOrderList;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -31,6 +34,7 @@ builder.Services.AddMassTransit(config => {
 // General Configuration
 builder.Services.AddScoped<BasketCheckoutConsumer>();
 builder.Services.AddAutoMapper(typeof(OrderingProfile));
+builder.Services.AddMediatR(typeof(GetOrdersListQuery).GetTypeInfo().Assembly);
 
 
 builder.Services.AddControllers();
